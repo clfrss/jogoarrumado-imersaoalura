@@ -1,2 +1,2 @@
 # jogoarrumado-imersaoalura
- Jogo criado com a imersão GameDev da Alura
+ Jogo criado com a imersão GameDev da **Alura**.
